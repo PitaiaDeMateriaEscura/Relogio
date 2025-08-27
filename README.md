@@ -17,8 +17,6 @@ Este é um **relógio digital interativo** desenvolvido com **HTML, CSS e JavaSc
 - (Opcional) Exibição da **data atual** ou mensagem personalizada.
 
 ## 📷 Prévia (screenshot ou gif)
-
-> Adicione aqui uma imagem ou gif demonstrando o relógio em funcionamento.
 ![Prévia do Relógio](images/screenshot.png)
 
 
